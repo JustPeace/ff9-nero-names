@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <Name>Nero Names</Name>
+  <Version>1.0</Version>
+  <InstallationPath>NeroNames</InstallationPath>
+  <Author>JustPeace</Author>
+  <Category>Gameplay</Category>
+  <Description>Shows fixed Chinese name labels for Zenero, Benero and Genero in the Alexandria shuffle game (field 1858). Labels follow actor SID rather than screen position. Requires a font with Chinese glyphs.</Description>
+  <MinimumMemoriaVersion>2025-07-13</MinimumMemoriaVersion>
+</Mod>
